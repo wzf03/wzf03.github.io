@@ -1,5 +1,5 @@
 ---
-title: "Effective Go"
+title: "Notes of Effective Go"
 date: 2023-04-28 16:49:50 +08:00
 categories: [Golang]
 tags: [programming, golang]
