@@ -1,6 +1,6 @@
 ---
 title: "ICS 复习提纲"
-date: 2023-01-11 19:14:00 08:00
+date: 2024-01-11 19:14:00 08:00
 categories: [PKU, CSAPP]
 tags: [linux, csapp, lesson]
 math: true
