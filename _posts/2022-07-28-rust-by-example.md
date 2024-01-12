@@ -753,11 +753,11 @@ fn main() {
 
 ### 字面量
 
-见`原生类型（Primitives）`
+见[原生类型](#原生类型primitives)
 
 ### 类型推断
 
-见`原生类型（Primitives）`
+见[原生类型](#原生类型primitives)
 
 ### 别名
 
